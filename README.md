@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GhastSlayer007
-- 👀 I’m interested in coding and game development. I like using Unity and the Unreal Engine, as well as programs like Pycharm.
-- 🌱 I’m currently learning more about Unity and scripting in C#.
-- 💞️ Aside from software development, I like building and repairing computers, or really anything with a circuit board.
-- 📫 I love to learn and I'm currently studying for my CompTIA A+ exams.
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in everything tech-related, but especially IT and AI/ML.
+- 🌱 I’m also knowledgeable in many coding languages used in web development, data handling, scripting, and command line.
+- 💞️ Aside from software development, I like building and repairing computers, experimenting with new tech, and training computer vision models.
+- 📫 I would love to collaborate. If you have a position open, feel free to reach out to me here or at the links in my profile.
 
 <!---
 GhastSlayer007/GhastSlayer007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
